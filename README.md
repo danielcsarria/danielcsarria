@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danielcsarria
-- 👀 I’m interested in being a great develop
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m a Senior Software Engineer with YTG
+- I have a strong passion for teaching the up and coming web devs!
 - 📫 How to reach me danielcsarria@gmail.com
 
 <!---
